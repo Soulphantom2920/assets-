@@ -1,3 +1,9 @@
+PayPal:
+<p align="center">
+  <a href="https://www.paypal.me/SoulP2920" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-Invítame%20a%20un%20café-blue?style=for-the-badge&logo=paypal" alt="Donar con PayPal">
+  </a>
+</p>
 
 x512p:
 ![Mi Firma de Zorro - 512](https://raw.githubusercontent.com/Soulphantom2920/assets-/main/Fox%20signatures/GithubMark%20x512p.gif)
